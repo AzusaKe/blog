@@ -37,7 +37,6 @@ $ hexo deploy
 
 More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
 
-
 <script src="https://giscus.app/client.js"
         data-repo="AzusaKe/blog"
         data-repo-id="R_kgDOOi3xaA"
