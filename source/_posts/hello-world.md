@@ -36,3 +36,21 @@ $ hexo deploy
 ```
 
 More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
+
+
+<script src="https://giscus.app/client.js"
+        data-repo="AzusaKe/blog"
+        data-repo-id="R_kgDOOi3xaA"
+        data-category="Announcements"
+        data-category-id="DIC_kwDOOi3xaM4CpquO"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="top"
+        data-theme="preferred_color_scheme"
+        data-lang="zh-CN"
+        data-loading="lazy"
+        crossorigin="anonymous"
+        async>
+</script>
