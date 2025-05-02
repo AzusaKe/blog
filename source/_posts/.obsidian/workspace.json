@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ceshi.md",
+                "file": "第一篇博客.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "ceshi"
+              "title": "第一篇博客"
             }
           }
         ]
@@ -170,8 +170,8 @@
   },
   "active": "df10f8c8e3486ff7",
   "lastOpenFiles": [
-    "第一篇博客.md",
     "ceshi.md",
+    "第一篇博客.md",
     "ceshi"
   ]
 }
