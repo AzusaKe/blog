@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hello-world.md",
-                "mode": "source",
+                "file": "第一篇博客.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "hello-world"
+              "title": "第一篇博客"
             }
           }
         ]

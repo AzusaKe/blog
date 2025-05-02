@@ -5,15 +5,15 @@
 # Site
 title: Azusa_Ke's Blog
 subtitle: ''
-description: ''
-keywords:
+description: 'Azusa_Ke的个人博客'
+keywords: '博客''计算机科学'
 author: Azusa_Ke
-language: en
-timezone: ''
+language: zh
+timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://blog.azusake.network
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -23,9 +23,9 @@ pretty_urls:
 # Directory
 source_dir: source
 public_dir: public
-tag_dir: tag
-archive_dir: archive
-category_dir: category
+tag_dir: tags
+archive_dir: archives
+category_dir: categories
 code_dir: downloads/code
 i18n_dir: :lang
 skip_render:
@@ -40,7 +40,10 @@ external_link:
   exclude: ''
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
+marked:
+  prependRoot: true
+  postAsset: true
 relative_link: false
 future: true
 syntax_highlighter: highlight.js
