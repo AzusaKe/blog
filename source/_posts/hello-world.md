@@ -1,5 +1,7 @@
 ---
 title: Hello World
+date: 2025-05-01
+az_id: 001
 ---
 Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
@@ -42,13 +44,15 @@ More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
         data-repo-id="R_kgDOOi3xaA"
         data-category="Announcements"
         data-category-id="DIC_kwDOOi3xaM4CpquO"
-        data-mapping="pathname"
+        data-mapping="specific"
+        data-term="<%= page.az_id %>"
         data-strict="0"
         data-reactions-enabled="1"
         data-emit-metadata="0"
         data-input-position="top"
         data-theme="light"
         data-lang="zh-CN"
+        data-loading="lazy"
         crossorigin="anonymous"
         async>
 </script>
