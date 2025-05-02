@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "第一篇博客.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
@@ -170,6 +170,8 @@
   },
   "active": "df10f8c8e3486ff7",
   "lastOpenFiles": [
+    "Hello-World.md",
+    "Hello-World",
     "你好世界.md",
     "你好世界",
     "ceshi.md",

@@ -55,7 +55,7 @@
 <% } %>
 
 
-<% if (page.layout === 'post') { %>
+<% if (!index && page.layout === 'post' && page.az_id) { %>
   <script src="https://giscus.app/client.js"
           data-repo="AzusaKe/blog"
           data-repo-id="R_kgDOOi3xaA"
