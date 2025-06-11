@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "期末大作业开发日志-1.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -168,7 +168,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "df08a5939cde8c1d",
+  "active": "df10f8c8e3486ff7",
   "lastOpenFiles": [
     "Pasted_image_20250608222114.png",
     "第一篇博客.md",
